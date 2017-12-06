@@ -12,6 +12,10 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+1) The staging area encourages me to commit in smaller sizes of logical change
+2) I can use git diff --staging to compare the stage version with the latest commit
+3) I can also use git diff to compare the staging version and the version in my working directory
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
