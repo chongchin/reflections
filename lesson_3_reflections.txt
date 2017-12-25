@@ -23,3 +23,8 @@ manually?
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 1) You know what changes may have been made by others, and hence I can reconcile my changes with these these changes before pushing to remote	   
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+1) List out the classes that have been change
+2) Study all the changes by each collaborator
+3) Sit together and try to resolve the changes
