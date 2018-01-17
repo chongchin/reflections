@@ -34,3 +34,5 @@ When would you want to make changes in a separate branch rather than directly in
 1) If there are collaborators working simultaneoulsy, then a separate branch should be used.
 2) Using branches allow others to inspect the changes before merging.
 3) If there is only 1 developer, then working on the master is faster 
+
+This is to test for meeting with BC / Veron 
